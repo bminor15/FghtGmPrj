@@ -1,6 +1,6 @@
 
 {
-    "name": "room0",
+    "name": "main_menu_rm",
     "id": "ca871192-ec43-465e-9258-86b9b8cd3b77",
     "creationCodeFile": "",
     "inheritCode": false,
@@ -50,7 +50,7 @@
             "hierarchyFrozen": false,
             "hierarchyVisible": true,
             "hspeed": 0,
-            "htiled": true,
+            "htiled": false,
             "inheritLayerDepth": false,
             "inheritLayerSettings": false,
             "inheritSubLayers": false,

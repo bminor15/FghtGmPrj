@@ -119,6 +119,30 @@
             }
         },
         {
+            "Key": "8b928ce1-747b-42fb-906d-15b1e9836962",
+            "Value": {
+                "id": "b9956a7c-d0bb-474e-82f7-58c3067cfa06",
+                "resourcePath": "sprites\\chr_select_scrn_sprt\\chr_select_scrn_sprt.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "9c064659-52a6-4d9c-b96f-7b31d3acc7b8",
+            "Value": {
+                "id": "bfd7aba3-c506-4222-b21b-2d89df9a4cb0",
+                "resourcePath": "sprites\\spr_chr_select_cursor\\spr_chr_select_cursor.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "9d7bf726-462b-480b-99d1-f7d31fe2fbe1",
+            "Value": {
+                "id": "345211d2-c883-4b88-8533-eab52cc74b7f",
+                "resourcePath": "objects\\chr_select_screen\\chr_select_screen.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "a5fe64d2-683e-4e49-bf02-2b0002d60ea4",
             "Value": {
                 "id": "38609527-b703-4004-927e-1acefb4de173",
@@ -151,6 +175,14 @@
             }
         },
         {
+            "Key": "bbd7208e-67b5-4a92-8def-0c39b143d54c",
+            "Value": {
+                "id": "ffa72cd9-1244-48c6-a6b3-e5fc09807139",
+                "resourcePath": "sprites\\spr_fighter2\\spr_fighter2.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "c5332009-601e-45f6-9ee2-2cea35a5be19",
             "Value": {
                 "id": "8b396aec-8b2b-4946-8db9-b443a6842bf7",
@@ -170,7 +202,7 @@
             "Key": "ca871192-ec43-465e-9258-86b9b8cd3b77",
             "Value": {
                 "id": "f300b3a8-d9bc-48b2-b48a-5306baa45fcd",
-                "resourcePath": "rooms\\room0\\room0.yy",
+                "resourcePath": "rooms\\main_menu_rm\\main_menu_rm.yy",
                 "resourceType": "GMRoom"
             }
         },
@@ -183,11 +215,27 @@
             }
         },
         {
+            "Key": "d29feb27-e3b2-43cd-bc72-33acd0f467a5",
+            "Value": {
+                "id": "250a9c02-4177-4ef8-ac9b-4ff0320da01f",
+                "resourcePath": "rooms\\char_select_rm\\char_select_rm.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "d455e66e-58bb-4e4c-ad95-8d1e0414f73a",
             "Value": {
                 "id": "ff9599c2-ab60-4be5-89b4-bff94e7649d8",
-                "resourcePath": "objects\\object0\\object0.yy",
+                "resourcePath": "objects\\main_menu_obj\\main_menu_obj.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "df601421-8f15-4584-8ec7-6fe07f18f592",
+            "Value": {
+                "id": "18d9fc9c-6e08-4c86-94df-69fa318359e3",
+                "resourcePath": "sprites\\spr_fighter1\\spr_fighter1.yy",
+                "resourceType": "GMSprite"
             }
         },
         {

@@ -2,7 +2,9 @@ switch(menu_index) {
 	
 	case 0:
 		//placeholder for Demo screen
-		game_end();
+		room_instance_clear(main_menu_rm);
+		room_goto(char_select_rm);
+		break;
 		
 	case 1:
 		//placeholder of a placeholder
